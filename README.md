@@ -1,7 +1,7 @@
-[![MasterHead](https://www.bing.com/images/search?view=detailV2&ccid=VMmvImch&id=82ACBC5948ABF4B4E32DBF4807DF0B9FE90C3CE2&thid=OIP.VMmvImch6VU5pc2VktY1uwHaFj&mediaurl=https%3a%2f%2fraw.githubusercontent.com%2fjsuarezruiz%2fjsuarezruiz%2fmaster%2fimages%2fcoding.gif&exph=600&expw=800&q=Animated+github+gif&simid=608007231790873989&FORM=IRPRST&ck=BA356D274FFB6CE02D4F3C1181971AC3&selectedIndex=76)](https://Ankitkumarkoli.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ankit Kumar Koli</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=VMmvImch&id=82ACBC5948ABF4B4E32DBF4807DF0B9FE90C3CE2&thid=OIP.VMmvImch6VU5pc2VktY1uwHaFj&mediaurl=https%3a%2f%2fraw.githubusercontent.com%2fjsuarezruiz%2fjsuarezruiz%2fmaster%2fimages%2fcoding.gif&exph=600&expw=800&q=Animated+github+gif&simid=608007231790873989&FORM=IRPRST&ck=BA356D274FFB6CE02D4F3C1181971AC3&selectedIndex=76">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitkumarkoli&label=Profile%20views&color=0e75b6&style=flat" alt="ankitkumarkoli" /> </p>
 
